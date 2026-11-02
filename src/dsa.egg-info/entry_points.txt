@@ -1,0 +1,2 @@
+[console_scripts]
+dsa = dsa.cli:main
