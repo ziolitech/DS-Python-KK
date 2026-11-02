@@ -1,4 +1,15 @@
+
+print("Loading two_sum module")
+
 def two_sum(nums, target):
+    print("Executing two_sum algorithm")
+    return []
+
+def main():
+    print("Executing two_sum main")
+
+def two_sum(nums, target):
+    print("Executing two_sum algorithm")
     seen = {}
 
     for i, num in enumerate(nums):

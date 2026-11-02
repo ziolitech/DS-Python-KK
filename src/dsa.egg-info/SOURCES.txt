@@ -14,6 +14,8 @@ src/dsa/problems/arrays/__init__.py
 src/dsa/problems/arrays/two_sum.py
 src/dsa/problems/dp/__init__.py
 src/dsa/problems/graphs/__init__.py
+src/dsa/problems/hashing/__init__.py
+src/dsa/problems/hashing/find_freq_large_num.py
 src/dsa/problems/strings/__init__.py
 src/dsa/problems/strings/valid_anagram.py
 src/dsa/problems/trees/__init__.py

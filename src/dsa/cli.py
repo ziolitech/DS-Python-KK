@@ -29,5 +29,7 @@ def main():
             parser.error(f"Problem {args.problem} does not implement main()")
 
 
+# Needed for executing two_sum.py directly with below command
+# python src/dsa/problems/arrays/two_sum.py
 if __name__ == "__main__":
     main()
