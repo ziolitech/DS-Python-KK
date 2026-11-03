@@ -31,6 +31,7 @@ def main():
 
     print(result)
 
-
+# needed if we want to execute directly using below command:
+# python $module_path or python src/dsa/problems/arrays/two_sum.py
 if __name__ == "__main__":
     main()
