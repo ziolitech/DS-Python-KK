@@ -1,5 +1,5 @@
 # Given an array, find the frequency of each element given the size of the an element 10⁹.
-
+# As the num can be very large we dont use the Hash Array rather we use HasingMap or Dict in python.
 
 def find_freq(arr):
     freq_dict = {}
