@@ -52,8 +52,18 @@ First two reach the same cli function through different entry points.
 
 
 # How to Run ?
+Install your project in editable mode.
+From your project root:
+python3 -m venv .venv
+source .venv/bin/activate
 pip install -e ".[dev]"
+
+This is important:
+pip install -e . installs your project in editable mode. Any changes you make to the Python source files are immediately reflected without reinstalling the package.
+You can now invoke:
 dsa run arrays.two_sum
+The dsa command is a console-script entry point installed into your virtual environment. It isn't a standalone compiled binary, but it provides the same convenient command-line invocation.
+
 
 
 

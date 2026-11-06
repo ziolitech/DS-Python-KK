@@ -15,7 +15,11 @@ src/dsa/problems/arrays/two_sum.py
 src/dsa/problems/dp/__init__.py
 src/dsa/problems/graphs/__init__.py
 src/dsa/problems/hashing/__init__.py
+src/dsa/problems/hashing/check_dupl_at_k_dist.py
+src/dsa/problems/hashing/check_subset.py
 src/dsa/problems/hashing/find_freq_large_num.py
+src/dsa/problems/hashing/min_ops_make_all_equal.py
+src/dsa/problems/hashing/target_sum_pair.py
 src/dsa/problems/strings/__init__.py
 src/dsa/problems/strings/valid_anagram.py
 src/dsa/problems/trees/__init__.py
